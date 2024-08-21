@@ -1,0 +1,2 @@
+- I'm Celine
+- Im interested in learning more programming!
